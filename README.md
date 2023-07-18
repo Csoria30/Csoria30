@@ -1,4 +1,4 @@
-### ¡Hola a todos! Mi nombre es Cristian.
+### ¡Hola a todos! Mi nombre es Cristian[linkedin].
 
 ## Soy estudiante de la Tecnicatura de desarrollador de Software.
 
@@ -11,6 +11,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csoria30&layout=compact&show_icons=true&theme=dracula)
 
 ## Contactame
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" target="_blank" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/cristian-soria-43343b214/
