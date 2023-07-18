@@ -10,3 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csoria30&layout=compact&show_icons=true&theme=dracula)
 
+## Contactame
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/cristian-soria-43343b214/
