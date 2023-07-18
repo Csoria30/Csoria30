@@ -1,8 +1,8 @@
-### ¡Hola a todos! Mi nombre es Cristian[linkedin].
+### ¡Hola a todos! Mi nombre es Cristian.
 
 ## Soy estudiante de la Tecnicatura de desarrollador de Software.
 
-- ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
+- ⚡ Me gusta estar constantemente aprendiendo cosas nuevas.
 
 ## Mis estadisticas son 
 
