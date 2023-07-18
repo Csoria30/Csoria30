@@ -6,7 +6,7 @@
 
 ## Mis estadisticas son 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=csoria30&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=csoria30&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csoria30&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csoria30&layout=compact&show_icons=true&theme=dracula)
 
