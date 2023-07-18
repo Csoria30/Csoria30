@@ -2,7 +2,7 @@
 
 ## Soy estudiante de la Tecnicatura de desarrollador de Software.
 
-- ⚡ Me gusta estar constantemente aprendiendo cosas nuevas.
+- ⚡ Me gusta estar constantemente aprendiendo nuevas habilidades, para poder estar preparado para los desafíos que se presenten.
 
 ## Mis estadisticas son 
 
