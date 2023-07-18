@@ -8,3 +8,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=csoria30&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csoria30&layout=compact)
+
