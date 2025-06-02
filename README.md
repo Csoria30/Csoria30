@@ -31,7 +31,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csoria30&layout=compact&show_icons=true&theme=dracula)
 
-## Contactame
-[<img align="left" alt="LinkedIn" target="_blank" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/cristian-soria-43343b214" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div> 
+
 
 [linkedin]: https://www.linkedin.com/in/cristian-soria-43343b214/
