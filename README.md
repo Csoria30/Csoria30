@@ -5,12 +5,12 @@
 💻 Me encanta explorar nuevas tecnologías, mejorar mis habilidades y afrontar desafíos que me permitan crecer tanto profesional como personalmente.
 
 
-## Tecnologias 💻
+## Tecnologias
 ### Backend 🛠️
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Frontend 🛠️
+### Frontend 🎨
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -36,7 +36,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csoria30&layout=compact&show_icons=true&theme=dracula)
 
 👁️‍🗨️ Visitas al perfil:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=csoria30)
+![Visitor Badge](https://komarev.com/ghpvc/?username=csoria30&style=for-the-badge)
+
+
 
 
 
