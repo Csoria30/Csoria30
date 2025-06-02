@@ -36,15 +36,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csoria30&layout=compact&show_icons=true&theme=dracula)
 
 👁️‍🗨️ Visitas al perfil:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=csoria30.csoria30)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=csoria30)
 
 
-## Contacta conmigo
-<div align="center">
-<a href="https://linkedin.com/in/cristian-soria-43343b214" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div> 
 
-
-[linkedin]: https://www.linkedin.com/in/cristian-soria-43343b214/
+## 📬 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-soria-43343b214)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/csoria30)
